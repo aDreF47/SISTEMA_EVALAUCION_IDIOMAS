@@ -3,7 +3,7 @@ package models;
 import java.util.List;
 
 public class BancoPregunta {
-    // Variables
+    
     private int idPregunta; 
     private String idCurso; 
     private String contenido; 
@@ -64,7 +64,6 @@ public class BancoPregunta {
         this.respuestaCorrecta = respuestaCorrecta;
     }
 
-    // Método para mostrar la información de la pregunta
     @Override
     public String toString() {
         return "Pregunta{" +
