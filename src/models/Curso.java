@@ -6,7 +6,7 @@ package models;
 
 /**
  *
- * @author Pedro
+ * @author Junior
  */
 public class Curso {
     
