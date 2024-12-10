@@ -15,6 +15,8 @@ public class SISTEMA_EVALAUCION_IDIOMAS {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int n;
+        n=1+1;
     }
     
 }
