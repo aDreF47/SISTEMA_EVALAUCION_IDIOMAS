@@ -32,4 +32,4 @@ desktop.ini
 *.ctxt
 
 # Ignoprando la conexion de oracle
-/src/utils
+src/utils
